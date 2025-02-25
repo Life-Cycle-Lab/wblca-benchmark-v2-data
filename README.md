@@ -30,14 +30,14 @@ Please cite both the Data Descriptor and the specific data version used:
 ## Project Background 
 In 2017, the Carbon Leadership Forum (CLF) published the Embodied Carbon Benchmark Study for North American buildings. Since then, the practice of whole-building life cycle assessment (WBLCA) has grown rapidly in the AEC industry, and it’s become clear that more robust and reliable benchmarks are critical for advancing work in this field. The new CLF WBLCA Benchmark Study (Version 2) is built upon research and insights from the 2017 study. The project expanded our research methodology, included more comprehensive data collection, and resulted in a high-resolution dataset of harmonized WBLCA model results and project design characteristics for nearly 300 buildings across the United States and Canada. Outcomes from this project are aimed to enable designers and decision-makers to set reliable embodied carbon targets and understand the potential for reduction throughout the design and construction processes.
 
-## Additional Resources
+## Additional Project Resources
 - [WBLCA Benchmark Study V2 Project Page - Carbon Leadership Forum](https://carbonleadershipforum.org/clf-wblca-v2/)
 - [WBLCA Benchmark Study V2 Project Page - Life Cycle Lab at University of Washington](https://www.lifecyclelab.org/projects/)
-- Data Descriptor (link TBD)
+- Data Descriptor (forthcoming)
 - [California Carbon Report](https://carbonleadershipforum.org/california-carbon/)
 - [Data Entry Template](https://hdl.handle.net/1773/51286)
 - [Data Collection User Guide](https://hdl.handle.net/1773/51285)
-- Benchmark Study Dashboard (TBD)
+- Benchmark Study Dashboard (forthcoming)
 
 ## Acknowledgements
 We would like to thank the Alfred P. Sloan Foundation, the ClimateWorks Foundation, and the Breakthrough Energy Foundation for supporting this research project. 
