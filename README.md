@@ -24,7 +24,7 @@ Versions on this repository are tracked using Releases on GitHub.
 
 ## How to cite
 Please cite both the Data Descriptor and the specific data version used:
-- **Data Descriptor:** Benke, B., Chafart, M., Shen, Y., Ashtiani, M., Carlisle, S., and Simonen, K.  *A Harmonized Dataset of High-Resolution Whole Building Life Cycle Assessment Results in North America.* In Review. Preprint available at [*Data Descriptor preprint DOI here, when ready*].
+- **Data Descriptor:** Benke, B., Chafart, M., Shen, Y., Ashtiani, M., Carlisle, S., and Simonen, K.  *A Harmonized Dataset of High-Resolution Whole Building Life Cycle Assessment Results in North America.* In Review. Preprint available at https://doi.org/10.21203/rs.3.rs-6108016/v1
 - **Dataset:** Refer to the latest version on Figshare https://doi.org/10.6084/m9.figshare.28462145.v1
 
 ## Project Background 
