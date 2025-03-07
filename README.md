@@ -33,7 +33,7 @@ In 2017, the Carbon Leadership Forum (CLF) published the Embodied Carbon Benchma
 ## Additional Project Resources
 - [WBLCA Benchmark Study V2 Project Page - Carbon Leadership Forum](https://carbonleadershipforum.org/clf-wblca-v2/)
 - [WBLCA Benchmark Study V2 Project Page - Life Cycle Lab at University of Washington](https://www.lifecyclelab.org/projects/)
-- Data Descriptor (forthcoming)
+- [Data Descriptor - A Harmonized Dataset of High-Resolution Whole Building Life Cycle Assessment Results in North America](https://doi.org/10.21203/rs.3.rs-6108016/v1)
 - [California Carbon Report](https://carbonleadershipforum.org/california-carbon/)
 - [Data Entry Template](https://hdl.handle.net/1773/51286)
 - [Data Collection User Guide](https://hdl.handle.net/1773/51285)
